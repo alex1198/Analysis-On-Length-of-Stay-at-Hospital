@@ -1,0 +1,2 @@
+# Analysis-On-Length-of-Stay-at-Hospital
+In this project, I do analysis on dataset which has 3lacks+ instances and 18 features and target feature is the length of stay. I do simple train test split, stratified cross validation on dataset and train a classifier such as decision tree, random forest, gaussian NB, KNN, and logistic regression. Also, do feature selection using SFS and do hyper parameter tuning with GridSearchCV and RandomizedCV. 
